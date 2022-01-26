@@ -1,6 +1,6 @@
 # fetch_data_api
 
-A new Flutter project.
+A new Flutter project. Credit to flutter with me youtube channel. https://www.youtube.com/watch?v=hgPTvi0OM4A&ab_channel=FlutterWithMe
 
 ## Getting Started
 
